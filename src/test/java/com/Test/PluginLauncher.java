@@ -1,9 +1,9 @@
-package com.example;
+package com.Test;
 
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;
 
-public class ExamplePluginTest
+public class PluginLauncher
 {
 	public static void main(String[] args) throws Exception
 	{
